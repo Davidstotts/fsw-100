@@ -1,0 +1,14 @@
+h1 {
+    color:purple;
+}
+.classic{
+    color:red;
+
+}
+#turtle{
+    color:green;
+}
+div > h4{
+    color:blue;
+
+}
